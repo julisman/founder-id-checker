@@ -6,7 +6,7 @@ import unittest
 from _load import ROOT, SKILLS_DIR
 
 SKILLS = ["checker-intake", "checker-health", "checker-channels", "checker-customers", "checker-competitors",
-          "checker-compliance", "checker-board", "checker-report"]
+          "checker-compliance", "checker-board", "checker-report", "checker-simulate"]
 REFERENCE = ["tax.md", "permits.md", "payroll.md", "payments-channels.md", "calendar.md", "sources.md"]
 EM = chr(0x2014)  # built in code so this file does not trip its own check
 
@@ -27,7 +27,7 @@ def text_files():
 
 
 class Repo(unittest.TestCase):
-    def test_eight_skill_folders(self):
+    def test_skill_folders(self):
         found = sorted(d for d in os.listdir(SKILLS_DIR) if os.path.isfile(os.path.join(SKILLS_DIR, d, "SKILL.md")))
         self.assertEqual(found, sorted(SKILLS))
 
