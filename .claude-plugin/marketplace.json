@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "founder-id-checker",
-      "description": "Eight Claude skills for business owners in Indonesia: intake from real records, a health check with a computed verdict, channels and platform fees, real customer reviews and a lapsed-customer survey, competitors now, permits and tax gaps, a four-lens board and the check-up report with a 90-day plan.",
+      "description": "Nine Claude skills for business owners in Indonesia: intake from real records, a health check with a computed verdict, channels and platform fees, real customer reviews and a lapsed-customer survey, competitors now, permits and tax gaps, a four-lens board, the check-up report with a 90-day plan, and a labelled simulated panel to pre-test a change before a real test.",
       "source": "./",
       "category": "productivity",
       "homepage": "https://github.com/julisman/founder-id-checker"
