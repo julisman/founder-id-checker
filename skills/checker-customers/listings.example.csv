@@ -1,0 +1,4 @@
+source,rating,review_count,url
+Google Maps,4.4,312,https://example.com/listing/maps
+GoFood,4.1,1250,https://example.com/listing/gofood
+ShopeeFood,4.6,85,https://example.com/listing/shopeefood

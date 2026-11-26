@@ -1,0 +1,195 @@
+{
+  "business": "Bakso Mas Yono",
+  "type": "fnb",
+  "currency": "IDR",
+  "where": "Margonda, Depok. Open since March 2024.",
+  "months": [
+    {
+      "month": "2026-06",
+      "days_open": 30,
+      "channels": {
+        "walk-in": {
+          "gross": 54000000,
+          "commission": 0,
+          "orders": 2842
+        },
+        "GoFood/GrabFood": {
+          "gross": 30000000,
+          "commission": 6600000,
+          "orders": 968
+        },
+        "ShopeeFood": {
+          "gross": 2500000,
+          "commission": 625000,
+          "orders": 86
+        }
+      },
+      "discounts": 1038000,
+      "direct_cost": 27774000,
+      "labour": 16800000,
+      "fixed_costs": 9750000,
+      "pph_final": 432500,
+      "other_costs": 600000,
+      "owner_drawings": 10000000,
+      "debt_payment": 2900000
+    },
+    {
+      "month": "2026-07",
+      "days_open": 31,
+      "channels": {
+        "walk-in": {
+          "gross": 56000000,
+          "commission": 0,
+          "orders": 2947
+        },
+        "GoFood/GrabFood": {
+          "gross": 31000000,
+          "commission": 6820000,
+          "orders": 1000
+        },
+        "ShopeeFood": {
+          "gross": 2600000,
+          "commission": 650000,
+          "orders": 90
+        }
+      },
+      "discounts": 1075200,
+      "direct_cost": 29180000,
+      "labour": 17400000,
+      "fixed_costs": 9750000,
+      "pph_final": 448000,
+      "other_costs": 600000,
+      "owner_drawings": 10000000,
+      "debt_payment": 2900000
+    },
+    {
+      "month": "2026-08",
+      "days_open": 31,
+      "channels": {
+        "walk-in": {
+          "gross": 55000000,
+          "commission": 0,
+          "orders": 2895
+        },
+        "GoFood/GrabFood": {
+          "gross": 32000000,
+          "commission": 7040000,
+          "orders": 1032
+        },
+        "ShopeeFood": {
+          "gross": 2600000,
+          "commission": 650000,
+          "orders": 90
+        }
+      },
+      "discounts": 1075200,
+      "direct_cost": 29909000,
+      "labour": 17400000,
+      "fixed_costs": 9750000,
+      "pph_final": 448000,
+      "other_costs": 600000,
+      "owner_drawings": 10000000,
+      "debt_payment": 2900000
+    },
+    {
+      "month": "2026-09",
+      "days_open": 30,
+      "channels": {
+        "walk-in": {
+          "gross": 51000000,
+          "commission": 0,
+          "orders": 2684
+        },
+        "GoFood/GrabFood": {
+          "gross": 31000000,
+          "commission": 6820000,
+          "orders": 1000
+        },
+        "ShopeeFood": {
+          "gross": 2400000,
+          "commission": 600000,
+          "orders": 83
+        }
+      },
+      "discounts": 1012800,
+      "direct_cost": 28868000,
+      "labour": 17400000,
+      "fixed_costs": 9750000,
+      "pph_final": 422000,
+      "other_costs": 600000,
+      "owner_drawings": 10000000,
+      "debt_payment": 2900000
+    },
+    {
+      "month": "2026-10",
+      "days_open": 31,
+      "channels": {
+        "walk-in": {
+          "gross": 50000000,
+          "commission": 0,
+          "orders": 2632
+        },
+        "GoFood/GrabFood": {
+          "gross": 30000000,
+          "commission": 6600000,
+          "orders": 968
+        },
+        "ShopeeFood": {
+          "gross": 2300000,
+          "commission": 575000,
+          "orders": 79
+        }
+      },
+      "discounts": 987600,
+      "direct_cost": 28543000,
+      "labour": 17400000,
+      "fixed_costs": 9750000,
+      "pph_final": 411500,
+      "other_costs": 600000,
+      "owner_drawings": 10000000,
+      "debt_payment": 2900000
+    },
+    {
+      "month": "2026-11",
+      "days_open": 30,
+      "channels": {
+        "walk-in": {
+          "gross": 49000000,
+          "commission": 0,
+          "orders": 2579
+        },
+        "GoFood/GrabFood": {
+          "gross": 29500000,
+          "commission": 6490000,
+          "orders": 952
+        },
+        "ShopeeFood": {
+          "gross": 2200000,
+          "commission": 550000,
+          "orders": 76
+        }
+      },
+      "discounts": 968400,
+      "direct_cost": 28350000,
+      "labour": 17400000,
+      "fixed_costs": 9750000,
+      "pph_final": 403500,
+      "other_costs": 600000,
+      "owner_drawings": 10000000,
+      "debt_payment": 2900000
+    }
+  ],
+  "cash": {
+    "balance": 21500000,
+    "as_of": "2026-11-25"
+  },
+  "owner_fair_salary": 6000000,
+  "targets": {
+    "direct_cost_pct": 0.35
+  },
+  "estimates": [
+    "Direct cost is purchases only for every month: there is no stock count.",
+    "Owner drawings are the owner's own estimate: cash taken from the drawer is not written down.",
+    "Owner's fair salary: what a kepala warung costs to hire in Depok, the owner's own estimate."
+  ]
+}

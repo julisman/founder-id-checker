@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "founder-id-checker",
+  "description": "The founder-id-checker skill pack for Claude: check a business in Indonesia that is already open",
+  "owner": {
+    "name": "AGJ"
+  },
+  "plugins": [
+    {
+      "name": "founder-id-checker",
+      "description": "Eight Claude skills for business owners in Indonesia: intake from real records, a health check with a computed verdict, channels and platform fees, real customer reviews and a lapsed-customer survey, competitors now, permits and tax gaps, a four-lens board and the check-up report with a 90-day plan.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/julisman/founder-id-checker"
+    }
+  ]
+}

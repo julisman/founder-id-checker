@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="SELF">
+<title>Business check-up</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand" id="brand">Business check-up</div>
+  <nav aria-label="Sections">
+    <a href="#verdict" data-i18n="nav_verdict">Verdict</a>
+    <a href="#months" data-i18n="nav_months">Months</a>
+    <a href="#money" data-i18n="nav_money">Where it goes</a>
+    <a href="#fixes" data-i18n="nav_fixes">Fixes</a>
+    <a href="#channels" data-i18n="nav_channels">Channels</a>
+    <a href="#customers" data-i18n="nav_customers">Customers</a>
+    <a href="#compliance" data-i18n="nav_compliance">Papers</a>
+    <a href="#board" data-i18n="nav_board">Board</a>
+    <a href="#documents" data-i18n="nav_documents">Documents</a>
+  </nav>
+  <span class="live" id="live">Loading</span>
+  <button class="icon-btn" id="lang" type="button" aria-label="Language">ID</button>
+  <button class="icon-btn" id="theme" type="button" aria-label="Colour theme">Auto</button>
+</header>
+<main id="app" aria-live="polite"></main>
+<div class="tip" id="tip" role="tooltip"></div>
+<script src="app.js"></script>
+</body>
+</html>

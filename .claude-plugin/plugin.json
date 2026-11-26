@@ -1,0 +1,21 @@
+{
+  "name": "founder-id-checker",
+  "description": "Eight free Claude skills to check an Indonesian business that is already open: the real numbers in Rupiah, a computed verdict (Sehat, Waspada, Kritis), channels and platform fees, what real customers say, the competitors now, permits and tax gaps, a board vote (grow, fix, pivot, close) and a 90-day plan. Free, MIT.",
+  "version": "0.1.0",
+  "author": {
+    "name": "AGJ"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "indonesia",
+    "umkm",
+    "business-health",
+    "rupiah",
+    "small-business",
+    "subagents"
+  ],
+  "homepage": "https://github.com/julisman/founder-id-checker",
+  "repository": "https://github.com/julisman/founder-id-checker"
+}
